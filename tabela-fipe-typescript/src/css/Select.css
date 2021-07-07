@@ -1,0 +1,32 @@
+.select{
+    display: flex;
+    flex-direction: column;
+}
+.select label{
+    font-size: 1.9rem;
+    color: #fece3b;
+    font-weight: 500;
+    margin-bottom:2%;
+}
+.select select{
+    font-size: 1.7rem;
+    border:none;
+    border-radius: 8px;
+    background-color: #2d2d2d;
+    color: white;
+    padding: 0.8%;
+    width: 100%;
+  
+}
+
+form input{
+    background-color: #e7e6f0;
+    border: none;
+    padding: 3% 4%;
+    font-size: 1.3rem;
+    border-radius: 3px;
+}
+
+@media(max-width:1280px){
+
+}
